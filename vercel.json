@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "src": "*.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "logos/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/logos/(.*)",
+      "dest": "/logos/$1"
+    }
+  ]
+}
