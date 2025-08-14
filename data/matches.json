@@ -3,517 +3,560 @@
   "matches": [
     {
       "date": "2025-08-15",
+      "time": "19:45",
       "home_team": {
         "name": "Liverpool",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1920px-Liverpool_FC.svg.png"
+        "logo_url": "/logos/Liverpool.png"
       },
       "away_team": {
         "name": "AFC Bournemouth",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1920px-AFC_Bournemouth_%282013%29.svg.png"
+        "logo_url": "/logos/Afc Bournemouth.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-15",
+      "time": "20:00",
       "home_team": {
         "name": "Al Ahly SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Ahly_SC_logo.svg/1200px-Al_Ahly_SC_logo.svg.png"
+        "logo_url": "/logos/Al Ahly SC.png"
       },
       "away_team": {
         "name": "Pharco FC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Pharco_FC.png"
+        "logo_url": "/logos/Pharco SC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "15:00",
       "home_team": {
         "name": "Aston Villa",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_Football_Club_logo.svg"
+        "logo_url": "/logos/Aston Villa.png"
       },
       "away_team": {
         "name": "Newcastle United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_FC_logo.svg"
+        "logo_url": "/logos/Newcastle United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "15:00",
       "home_team": {
         "name": "Brighton & Hove Albion",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg"
+        "logo_url": "/logos/Brighton & Hove Albion.png"
       },
       "away_team": {
         "name": "Fulham",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%282022%29_logo.svg"
+        "logo_url": "/logos/Fulham.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "15:00",
       "home_team": {
         "name": "Sunderland",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sunderland_AFC_logo.svg"
+        "logo_url": "/logos/Sunderland.png"
       },
       "away_team": {
         "name": "West Ham United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
+        "logo_url": "/logos/West Ham United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "17:30",
       "home_team": {
         "name": "Tottenham Hotspur",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+        "logo_url": "/logos/Tottenham Hotspur.png"
       },
       "away_team": {
         "name": "Burnley",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/62/Burnley_FC_logo.svg"
+        "logo_url": "/logos/Burnley.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "15:00",
       "home_team": {
         "name": "Wolverhampton Wanderers",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Wolverhampton_Wanderers.svg"
+        "logo_url": "/logos/Wolverhampton Wanderers.png"
       },
       "away_team": {
         "name": "Manchester City",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_logo.svg"
+        "logo_url": "/logos/Manchester City.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-16",
+      "time": "19:00",
       "home_team": {
         "name": "Mallorca",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/40/RCD_Mallorca_logo.svg"
+        "logo_url": "/logos/Mallorca.png"
       },
       "away_team": {
         "name": "Barcelona",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+        "logo_url": "/logos/Barcelona.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-16",
+      "time": "20:00",
       "home_team": {
         "name": "Zamalek SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Zamalek_SC.svg"
+        "logo_url": "/logos/Zamalek SC.png"
       },
       "away_team": {
         "name": "Arab Contractors",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Al_Mokawloon_Al_Arab_SC_logo.png"
+        "logo_url": "/logos/El Mokawloon SC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-17",
+      "time": "14:00",
       "home_team": {
         "name": "Chelsea",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Chelsea_FC.svg"
+        "logo_url": "/logos/Chelsea.png"
       },
       "away_team": {
         "name": "Crystal Palace",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo.svg"
+        "logo_url": "/logos/Crystal Palace.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-17",
+      "time": "16:30",
       "home_team": {
         "name": "Nottingham Forest",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg"
+        "logo_url": "/logos/Nottingham Forest.png"
       },
       "away_team": {
         "name": "Brentford",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Brentford_FC_logo.svg"
+        "logo_url": "/logos/Brentford.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-17",
+      "time": "19:30",
       "home_team": {
         "name": "Manchester United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+        "logo_url": "/logos/Manchester United.png"
       },
       "away_team": {
         "name": "Arsenal",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+        "logo_url": "/logos/Arsenal.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-18",
+      "time": "19:00",
       "home_team": {
         "name": "Leeds United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Leeds_United_F.C._logo.svg"
+        "logo_url": "/logos/Leeds United.png"
       },
       "away_team": {
         "name": "Everton",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
+        "logo_url": "/logos/Everton.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-19",
+      "time": "20:00",
       "home_team": {
         "name": "Real Madrid",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Real_Madrid_CF_logo.svg"
+        "logo_url": "/logos/Real Madrid.png"
       },
       "away_team": {
         "name": "Osasuna",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/ee/CA_Osasuna_logo.svg"
+        "logo_url": "/logos/Osasuna.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-21",
+      "time": "20:00",
       "home_team": {
         "name": "Modern Sport FC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Modern_Sport_FC_logo.png"
+        "logo_url": "/logos/Modern Sport FC.png"
       },
       "away_team": {
         "name": "Zamalek SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Zamalek_SC.svg"
+        "logo_url": "/logos/Zamalek SC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-22",
+      "time": "19:30",
       "home_team": {
         "name": "West Ham United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
+        "logo_url": "/logos/West Ham United.png"
       },
       "away_team": {
         "name": "Chelsea",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Chelsea_FC.svg"
+        "logo_url": "/logos/Chelsea.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "15:00",
       "home_team": {
         "name": "AFC Bournemouth",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1920px-AFC_Bournemouth_%282013%29.svg.png"
+        "logo_url": "/logos/Afc Bournemouth.png"
       },
       "away_team": {
         "name": "Wolverhampton Wanderers",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Wolverhampton_Wanderers.svg"
+        "logo_url": "/logos/Wolverhampton Wanderers.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "15:00",
       "home_team": {
         "name": "Brentford",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Brentford_FC_logo.svg"
+        "logo_url": "/logos/Brentford.png"
       },
       "away_team": {
         "name": "Aston Villa",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_Football_Club_logo.svg"
+        "logo_url": "/logos/Aston Villa.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "15:00",
       "home_team": {
         "name": "Burnley",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/62/Burnley_FC_logo.svg"
+        "logo_url": "/logos/Burnley.png"
       },
       "away_team": {
         "name": "Sunderland",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sunderland_AFC_logo.svg"
+        "logo_url": "/logos/Sunderland.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "17:30",
       "home_team": {
         "name": "Manchester City",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_logo.svg"
+        "logo_url": "/logos/Manchester City.png"
       },
       "away_team": {
         "name": "Tottenham Hotspur",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+        "logo_url": "/logos/Tottenham Hotspur.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "15:00",
       "home_team": {
         "name": "Arsenal",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+        "logo_url": "/logos/Arsenal.png"
       },
       "away_team": {
         "name": "Leeds United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Leeds_United_F.C._logo.svg"
+        "logo_url": "/logos/Leeds United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-23",
+      "time": "18:00",
       "home_team": {
         "name": "Levante",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f0/Levante_UD_logo.svg"
+        "logo_url": "/logos/Levante.png"
       },
       "away_team": {
         "name": "Barcelona",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+        "logo_url": "/logos/Barcelona.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-24",
+      "time": "14:00",
       "home_team": {
         "name": "Crystal Palace",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo.svg"
+        "logo_url": "/logos/Crystal Palace.png"
       },
       "away_team": {
         "name": "Nottingham Forest",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg"
+        "logo_url": "/logos/Nottingham Forest.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-24",
+      "time": "16:30",
       "home_team": {
         "name": "Everton",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
+        "logo_url": "/logos/Everton.png"
       },
       "away_team": {
         "name": "Brighton & Hove Albion",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg"
+        "logo_url": "/logos/Brighton & Hove Albion.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-24",
+      "time": "19:00",
       "home_team": {
         "name": "Fulham",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%282022%29_logo.svg"
+        "logo_url": "/logos/Fulham.png"
       },
       "away_team": {
         "name": "Manchester United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+        "logo_url": "/logos/Manchester United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-24",
+      "time": "20:00",
       "home_team": {
         "name": "Real Oviedo",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png"
+        "logo_url": "/logos/Real Oviedo.png"
       },
       "away_team": {
         "name": "Real Madrid",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Real_Madrid_CF_logo.svg"
+        "logo_url": "/logos/Real Madrid.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-25",
+      "time": "19:30",
       "home_team": {
         "name": "Newcastle United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_FC_logo.svg"
+        "logo_url": "/logos/Newcastle United.png"
       },
       "away_team": {
         "name": "Liverpool",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1920px-Liverpool_FC.svg.png"
+        "logo_url": "/logos/Liverpool.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-25",
+      "time": "20:00",
       "home_team": {
         "name": "Ghazl El Mahalla",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ghazl_El_Mahalla_SC_logo.png/1200px-Ghazl_El_Mahalla_SC_logo.png"
+        "logo_url": "/logos/Ghazl El Mahalla SC.png"
       },
       "away_team": {
         "name": "Al Ahly SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Ahly_SC_logo.svg/1200px-Al_Ahly_SC_logo.svg.png"
+        "logo_url": "/logos/Al Ahly SC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-26",
+      "time": "20:00",
       "home_team": {
         "name": "Zamalek SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Zamalek_SC.svg"
+        "logo_url": "/logos/Zamalek SC.png"
       },
       "away_team": {
         "name": "Pharco FC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/25/Pharco_FC.png"
+        "logo_url": "/logos/Pharco SC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-29",
+      "time": "19:45",
       "home_team": {
         "name": "Aston Villa",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Aston_Villa_Football_Club_logo.svg"
+        "logo_url": "/logos/Aston Villa.png"
       },
       "away_team": {
         "name": "Crystal Palace",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Crystal_Palace_FC_logo.svg"
+        "logo_url": "/logos/Crystal Palace.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "15:00",
       "home_team": {
         "name": "Chelsea",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Chelsea_FC.svg"
+        "logo_url": "/logos/Chelsea.png"
       },
       "away_team": {
         "name": "Fulham",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%282022%29_logo.svg"
+        "logo_url": "/logos/Fulham.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "15:00",
       "home_team": {
         "name": "Manchester United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg"
+        "logo_url": "/logos/Manchester United.png"
       },
       "away_team": {
         "name": "Burnley",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/62/Burnley_FC_logo.svg"
+        "logo_url": "/logos/Burnley.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "15:00",
       "home_team": {
         "name": "Sunderland",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Sunderland_AFC_logo.svg"
+        "logo_url": "/logos/Sunderland.png"
       },
       "away_team": {
         "name": "Brentford",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Brentford_FC_logo.svg"
+        "logo_url": "/logos/Brentford.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "17:30",
       "home_team": {
         "name": "Tottenham Hotspur",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg"
+        "logo_url": "/logos/Tottenham Hotspur.png"
       },
       "away_team": {
         "name": "AFC Bournemouth",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1920px-AFC_Bournemouth_%282013%29.svg.png"
+        "logo_url": "/logos/Afc Bournemouth.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "15:00",
       "home_team": {
         "name": "Wolverhampton Wanderers",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Wolverhampton_Wanderers.svg"
+        "logo_url": "/logos/Wolverhampton Wanderers.png"
       },
       "away_team": {
         "name": "Everton",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg"
+        "logo_url": "/logos/Everton.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "15:00",
       "home_team": {
         "name": "Leeds United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5a/Leeds_United_F.C._logo.svg"
+        "logo_url": "/logos/Leeds United.png"
       },
       "away_team": {
         "name": "Newcastle United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_FC_logo.svg"
+        "logo_url": "/logos/Newcastle United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-30",
+      "time": "19:00",
       "home_team": {
         "name": "Real Madrid",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/51/Real_Madrid_CF_logo.svg"
+        "logo_url": "/logos/Real Madrid.png"
       },
       "away_team": {
         "name": "Mallorca",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/40/RCD_Mallorca_logo.svg"
+        "logo_url": "/logos/Mallorca.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-30",
+      "time": "20:00",
       "home_team": {
         "name": "Al Ahly SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Ahly_SC_logo.svg/1200px-Al_Ahly_SC_logo.svg.png"
+        "logo_url": "/logos/Al Ahly SC.png"
       },
       "away_team": {
         "name": "Pyramids FC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Pyramids_FC_logo.png"
+        "logo_url": "/logos/Pyramids FC.png"
       },
       "league": "Egyptian Premier League"
     },
     {
       "date": "2025-08-31",
+      "time": "14:00",
       "home_team": {
         "name": "Brighton & Hove Albion",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg"
+        "logo_url": "/logos/Brighton & Hove Albion.png"
       },
       "away_team": {
         "name": "Manchester City",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_logo.svg"
+        "logo_url": "/logos/Manchester City.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-31",
+      "time": "16:30",
       "home_team": {
         "name": "Nottingham Forest",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Nottingham_Forest_F.C._logo.svg"
+        "logo_url": "/logos/Nottingham Forest.png"
       },
       "away_team": {
         "name": "West Ham United",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg"
+        "logo_url": "/logos/West Ham United.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-31",
+      "time": "19:00",
       "home_team": {
         "name": "Liverpool",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1920px-Liverpool_FC.svg.png"
+        "logo_url": "/logos/Liverpool.png"
       },
       "away_team": {
         "name": "Arsenal",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+        "logo_url": "/logos/Arsenal.png"
       },
       "league": "Premier League"
     },
     {
       "date": "2025-08-31",
+      "time": "18:00",
       "home_team": {
         "name": "Rayo Vallecano",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_de_Madrid_logo.svg"
+        "logo_url": "/logos/Rayo Vallecano.png"
       },
       "away_team": {
         "name": "Barcelona",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+        "logo_url": "/logos/Barcelona.png"
       },
       "league": "La Liga"
     },
     {
       "date": "2025-08-31",
+      "time": "20:00",
       "home_team": {
         "name": "Wadi Degla",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/87/Wadi_Degla_SC_logo.png"
+        "logo_url": "/logos/Wadi Degla.png"
       },
       "away_team": {
         "name": "Zamalek SC",
-        "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Zamalek_SC.svg"
+        "logo_url": "/logos/Zamalek SC.png"
       },
       "league": "Egyptian Premier League"
     }
