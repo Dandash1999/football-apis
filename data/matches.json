@@ -13,7 +13,7 @@
         "logo_url": "/logos/Zamalek SC.png"
       },
       "league": "Egyptian Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/400"
+      "channel": "ON Time Sport 1"
     },
     {
       "date": "2025-08-22",
@@ -27,7 +27,7 @@
         "logo_url": "/logos/Chelsea.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-23",
@@ -41,7 +41,7 @@
         "logo_url": "/logos/Wolverhampton Wanderers.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-23",
@@ -55,7 +55,7 @@
         "logo_url": "/logos/Aston Villa.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-23",
@@ -69,7 +69,7 @@
         "logo_url": "/logos/Sunderland.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/100"
+      "channel": "beINSports 2"
     },
     {
       "date": "2025-08-23",
@@ -83,7 +83,7 @@
         "logo_url": "/logos/Tottenham Hotspur.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-23",
@@ -97,7 +97,7 @@
         "logo_url": "/logos/Leeds United.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-23",
@@ -111,7 +111,7 @@
         "logo_url": "/logos/Barcelona.png"
       },
       "league": "La Liga",
-      "match_url": "http://2mott.com:8080/s99893/8682230/113"
+      "channel": "beINSports 3"
     },
     {
       "date": "2025-08-24",
@@ -125,7 +125,7 @@
         "logo_url": "/logos/Nottingham Forest.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/100"
+      "channel": "beINSports 2"
     },
     {
       "date": "2025-08-24",
@@ -139,7 +139,7 @@
         "logo_url": "/logos/Brighton & Hove Albion.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-24",
@@ -153,7 +153,7 @@
         "logo_url": "/logos/Manchester United.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-24",
@@ -167,7 +167,7 @@
         "logo_url": "/logos/Real Madrid.png"
       },
       "league": "La Liga",
-      "match_url": "http://2mott.com:8080/s99893/8682230/113"
+      "channel": "beINSports 3"
     },
     {
       "date": "2025-08-25",
@@ -181,7 +181,7 @@
         "logo_url": "/logos/Liverpool.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-25",
@@ -195,7 +195,7 @@
         "logo_url": "/logos/Al Ahly SC.png"
       },
       "league": "Egyptian Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/400"
+      "channel": "ON Time Sport 1"
     },
     {
       "date": "2025-08-26",
@@ -209,7 +209,7 @@
         "logo_url": "/logos/Pharco SC.png"
       },
       "league": "Egyptian Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/400"
+      "channel": "ON Time Sport 1"
     },
     {
       "date": "2025-08-29",
@@ -223,7 +223,7 @@
         "logo_url": "/logos/Crystal Palace.png"
       },
       "league": "Premier League",
-      "match_url": "PLACEHOLDER_URL"
+      "channel": "PLACEHOLDER_URL"
     },
     {
       "date": "2025-08-30",
@@ -237,7 +237,7 @@
         "logo_url": "/logos/Fulham.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-30",
@@ -251,7 +251,7 @@
         "logo_url": "/logos/Burnley.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-30",
@@ -265,7 +265,7 @@
         "logo_url": "/logos/Brentford.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/104"
+      "channel": "beINSports 6"
     },
     {
       "date": "2025-08-30",
@@ -279,7 +279,7 @@
         "logo_url": "/logos/Afc Bournemouth.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/100"
+      "channel": "beINSports 2"
     },
     {
       "date": "2025-08-30",
@@ -293,7 +293,7 @@
         "logo_url": "/logos/Everton.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/103"
+      "channel": "http://2mott.com:8080/s99893/8682230/103"
     },
     {
       "date": "2025-08-30",
@@ -307,7 +307,7 @@
         "logo_url": "/logos/Newcastle United.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-30",
@@ -321,7 +321,7 @@
         "logo_url": "/logos/Mallorca.png"
       },
       "league": "La Liga",
-      "match_url": "http://2mott.com:8080/s99893/8682230/113"
+      "channel": "beINSports 3"
     },
     {
       "date": "2025-08-30",
@@ -335,7 +335,7 @@
         "logo_url": "/logos/Pyramids FC.png"
       },
       "league": "Egyptian Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/400"
+      "channel": "ON Time Sport 1"
     },
     {
       "date": "2025-08-31",
@@ -349,7 +349,7 @@
         "logo_url": "/logos/Manchester City.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-31",
@@ -363,7 +363,7 @@
         "logo_url": "/logos/West Ham United.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/100"
+      "channel": "beINSports 2"
     },
     {
       "date": "2025-08-31",
@@ -377,7 +377,7 @@
         "logo_url": "/logos/Arsenal.png"
       },
       "league": "Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/99"
+      "channel": "beINSports 1"
     },
     {
       "date": "2025-08-31",
@@ -391,7 +391,7 @@
         "logo_url": "/logos/Barcelona.png"
       },
       "league": "La Liga",
-      "match_url": "http://2mott.com:8080/s99893/8682230/113"
+      "channel": "beINSports 3"
     },
     {
       "date": "2025-08-31",
@@ -405,7 +405,128 @@
         "logo_url": "/logos/Zamalek SC.png"
       },
       "league": "Egyptian Premier League",
-      "match_url": "http://2mott.com:8080/s99893/8682230/400"
+      "channel": "ON Time Sport 1"
     }
   ]
-}
+  ,
+  "channels": {
+    "beINSports 1": [
+      "http://2mott.com:8080/s99893/8682230/123",
+      "http://2mott.com:8080/s99893/8682230/135",
+      "http://2mott.com:8080/s99893/8682230/99",
+      "http://2mott.com:8080/s99893/8682230/111",
+      "http://2mott.com:8080/s99893/8682230/37",
+      "http://2mott.com:8080/s99893/8682230/25",
+      "http://2mott.com:8080/s99893/8682230/63",
+      "http://2mott.com:8080/s99893/8682230/49",
+      "http://2mott.com:8080/s99893/8682230/13"
+    ],
+    "beINSports 2": [
+      "http://2mott.com:8080/s99893/8682230/124",
+      "http://2mott.com:8080/s99893/8682230/136",
+      "http://2mott.com:8080/s99893/8682230/100",
+      "http://2mott.com:8080/s99893/8682230/112",
+      "http://2mott.com:8080/s99893/8682230/38",
+      "http://2mott.com:8080/s99893/8682230/26",
+      "http://2mott.com:8080/s99893/8682230/64",
+      "http://2mott.com:8080/s99893/8682230/50",
+      "http://2mott.com:8080/s99893/8682230/14",
+      "http://2mott.com:8080/s99893/8682230/2"
+    ],
+    "beINSports 3": [
+      "http://2mott.com:8080/s99893/8682230/125",
+      "http://2mott.com:8080/s99893/8682230/137",
+      "http://2mott.com:8080/s99893/8682230/101",
+      "http://2mott.com:8080/s99893/8682230/113",
+      "http://2mott.com:8080/s99893/8682230/39",
+      "http://2mott.com:8080/s99893/8682230/27",
+      "http://2mott.com:8080/s99893/8682230/65",
+      "http://2mott.com:8080/s99893/8682230/51",
+      "http://2mott.com:8080/s99893/8682230/15",
+      "http://2mott.com:8080/s99893/8682230/3"
+    ],
+    "beINSports 4": [
+      "http://2mott.com:8080/s99893/8682230/126",
+      "http://2mott.com:8080/s99893/8682230/138",
+      "http://2mott.com:8080/s99893/8682230/114",
+      "http://2mott.com:8080/s99893/8682230/102",
+      "http://2mott.com:8080/s99893/8682230/40",
+      "http://2mott.com:8080/s99893/8682230/28",
+      "http://2mott.com:8080/s99893/8682230/66",
+      "http://2mott.com:8080/s99893/8682230/52",
+      "http://2mott.com:8080/s99893/8682230/16",
+      "http://2mott.com:8080/s99893/8682230/4"
+    ],
+    "beINSports 5": [
+      "http://2mott.com:8080/s99893/8682230/127",
+      "http://2mott.com:8080/s99893/8682230/139",
+      "http://2mott.com:8080/s99893/8682230/103",
+      "http://2mott.com:8080/s99893/8682230/115",
+      "http://2mott.com:8080/s99893/8682230/41",
+      "http://2mott.com:8080/s99893/8682230/29",
+      "http://2mott.com:8080/s99893/8682230/67",
+      "http://2mott.com:8080/s99893/8682230/53",
+      "http://2mott.com:8080/s99893/8682230/17",
+      "http://2mott.com:8080/s99893/8682230/5"
+    ],
+    "beINSports 6": [
+      "http://2mott.com:8080/s99893/8682230/128",
+      "http://2mott.com:8080/s99893/8682230/140",
+      "http://2mott.com:8080/s99893/8682230/116",
+      "http://2mott.com:8080/s99893/8682230/104",
+      "http://2mott.com:8080/s99893/8682230/42",
+      "http://2mott.com:8080/s99893/8682230/30",
+      "http://2mott.com:8080/s99893/8682230/68",
+      "http://2mott.com:8080/s99893/8682230/54",
+      "http://2mott.com:8080/s99893/8682230/18",
+      "http://2mott.com:8080/s99893/8682230/6"
+    ],
+    "beINSports 7": [
+      "http://2mott.com:8080/s99893/8682230/129",
+      "http://2mott.com:8080/s99893/8682230/141",
+      "http://2mott.com:8080/s99893/8682230/105",
+      "http://2mott.com:8080/s99893/8682230/117",
+      "http://2mott.com:8080/s99893/8682230/43",
+      "http://2mott.com:8080/s99893/8682230/31",
+      "http://2mott.com:8080/s99893/8682230/69",
+      "http://2mott.com:8080/s99893/8682230/55",
+      "http://2mott.com:8080/s99893/8682230/19",
+      "http://2mott.com:8080/s99893/8682230/7"
+    ],
+    "beINSports 8": [
+      "http://2mott.com:8080/s99893/8682230/130",
+      "http://2mott.com:8080/s99893/8682230/142",
+      "http://2mott.com:8080/s99893/8682230/106",
+      "http://2mott.com:8080/s99893/8682230/118",
+      "http://2mott.com:8080/s99893/8682230/44",
+      "http://2mott.com:8080/s99893/8682230/32",
+      "http://2mott.com:8080/s99893/8682230/70",
+      "http://2mott.com:8080/s99893/8682230/56",
+      "http://2mott.com:8080/s99893/8682230/20",
+      "http://2mott.com:8080/s99893/8682230/8"
+    ],
+    "beINSports 9": [
+      "http://2mott.com:8080/s99893/8682230/131",
+      "http://2mott.com:8080/s99893/8682230/143",
+      "http://2mott.com:8080/s99893/8682230/107",
+      "http://2mott.com:8080/s99893/8682230/119",
+      "http://2mott.com:8080/s99893/8682230/45",
+      "http://2mott.com:8080/s99893/8682230/33",
+      "http://2mott.com:8080/s99893/8682230/71",
+      "http://2mott.com:8080/s99893/8682230/57",
+      "http://2mott.com:8080/s99893/8682230/21",
+      "http://2mott.com:8080/s99893/8682230/9"
+    ],
+    "ON Time Sport 1":[
+      "http://2mott.com:8080/s99893/8682230/400"
+    ],
+    "ON Time Sport 2":[
+      "http://2mott.com:8080/s99893/8682230/401"
+    ]
+  
+
+  
+
+
+
+}}
