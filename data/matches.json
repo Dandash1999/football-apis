@@ -411,158 +411,137 @@
   ,
   "channels": {
 
+  
   "beINSports 1": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/1",
-      "server2": "http://2mott.com:8080/s99893/8682230/13"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/13",
+      "MED": "http://2mott.com:8080/s99893/8682230/63",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/111"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/49",
-      "server2": "http://2mott.com:8080/s99893/8682230/63"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/99",
-      "server2": "http://2mott.com:8080/s99893/8682230/111"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/1",
+      "MED": "http://2mott.com:8080/s99893/8682230/49",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/99"
     }
   },
   "beINSports 2": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/2",
-      "server2": "http://2mott.com:8080/s99893/8682230/14"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/14",
+      "MED": "http://2mott.com:8080/s99893/8682230/64",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/112"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/50",
-      "server2": "http://2mott.com:8080/s99893/8682230/64"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/100",
-      "server2": "http://2mott.com:8080/s99893/8682230/112"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/2",
+      "MED": "http://2mott.com:8080/s99893/8682230/50",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/100"
     }
   },
   "beINSports 3": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/3",
-      "server2": "http://2mott.com:8080/s99893/8682230/15"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/15",
+      "MED": "http://2mott.com:8080/s99893/8682230/65",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/113"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/51",
-      "server2": "http://2mott.com:8080/s99893/8682230/65"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/101",
-      "server2": "http://2mott.com:8080/s99893/8682230/113"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/3",
+      "MED": "http://2mott.com:8080/s99893/8682230/51",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/101"
     }
   },
   "beINSports 4": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/4",
-      "server2": "http://2mott.com:8080/s99893/8682230/16"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/16",
+      "MED": "http://2mott.com:8080/s99893/8682230/66",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/114"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/52",
-      "server2": "http://2mott.com:8080/s99893/8682230/66"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/102",
-      "server2": "http://2mott.com:8080/s99893/8682230/114"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/4",
+      "MED": "http://2mott.com:8080/s99893/8682230/52",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/102"
     }
   },
   "beINSports 5": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/5",
-      "server2": "http://2mott.com:8080/s99893/8682230/17"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/17",
+      "MED": "http://2mott.com:8080/s99893/8682230/67",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/115"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/53",
-      "server2": "http://2mott.com:8080/s99893/8682230/67"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/103",
-      "server2": "http://2mott.com:8080/s99893/8682230/115"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/5",
+      "MED": "http://2mott.com:8080/s99893/8682230/53",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/103"
     }
   },
   "beINSports 6": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/6",
-      "server2": "http://2mott.com:8080/s99893/8682230/18"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/18",
+      "MED": "http://2mott.com:8080/s99893/8682230/68",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/116"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/54",
-      "server2": "http://2mott.com:8080/s99893/8682230/68"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/104",
-      "server2": "http://2mott.com:8080/s99893/8682230/116"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/6",
+      "MED": "http://2mott.com:8080/s99893/8682230/54",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/104"
     }
   },
   "beINSports 7": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/7",
-      "server2": "http://2mott.com:8080/s99893/8682230/19"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/19",
+      "MED": "http://2mott.com:8080/s99893/8682230/69",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/117"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/55",
-      "server2": "http://2mott.com:8080/s99893/8682230/69"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/105",
-      "server2": "http://2mott.com:8080/s99893/8682230/117"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/7",
+      "MED": "http://2mott.com:8080/s99893/8682230/55",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/105"
     }
   },
   "beINSports 8": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/8",
-      "server2": "http://2mott.com:8080/s99893/8682230/20"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/20",
+      "MED": "http://2mott.com:8080/s99893/8682230/70",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/118"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/56",
-      "server2": "http://2mott.com:8080/s99893/8682230/70"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/106",
-      "server2": "http://2mott.com:8080/s99893/8682230/118"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/8",
+      "MED": "http://2mott.com:8080/s99893/8682230/56",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/106"
     }
   },
   "beINSports 9": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/9",
-      "server2": "http://2mott.com:8080/s99893/8682230/21"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/21",
+      "MED": "http://2mott.com:8080/s99893/8682230/71",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/119"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/57",
-      "server2": "http://2mott.com:8080/s99893/8682230/71"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/107",
-      "server2": "http://2mott.com:8080/s99893/8682230/119"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/9",
+      "MED": "http://2mott.com:8080/s99893/8682230/57",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/107"
     }
   },
   "ON Time Sport 1": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/400",
-      "server2": "http://2mott.com:8080/s99893/8682230/400"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/400",
+      "MED": "http://2mott.com:8080/s99893/8682230/400",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/400"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/400",
-      "server2": "http://2mott.com:8080/s99893/8682230/400"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/400",
-      "server2": "http://2mott.com:8080/s99893/8682230/400"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/400",
+      "MED": "http://2mott.com:8080/s99893/8682230/400",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/400"
     }
   },
   "ON Time Sport 2": {
-    "LOW": {
-      "server1": "http://2mott.com:8080/s99893/8682230/401",
-      "server2": "http://2mott.com:8080/s99893/8682230/401"
+    "server1": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/401",
+      "MED": "http://2mott.com:8080/s99893/8682230/401",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/401"
     },
-    "SD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/401",
-      "server2": "http://2mott.com:8080/s99893/8682230/401"
-    },
-    "HD": {
-      "server1": "http://2mott.com:8080/s99893/8682230/401",
-      "server2": "http://2mott.com:8080/s99893/8682230/401"
+    "server2": {
+      "LOW": "http://2mott.com:8080/s99893/8682230/401",
+      "MED": "http://2mott.com:8080/s99893/8682230/401",
+      "HIGH": "http://2mott.com:8080/s99893/8682230/401"
     }
   }
 }
